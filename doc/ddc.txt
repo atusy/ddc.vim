@@ -60,7 +60,7 @@ https://github.com/vim-denops/denops.vim
 
 NOTE: Ddc.vim does not include any UIs, sources and filters.
 You must install them which you want manually.
-You can search ddc.vim plugins(UIs, sources and filters) from
+You can search ddc.vim plugins (UIs, sources and filters) from
 https://github.com/topics/ddc-vim.
 
 
