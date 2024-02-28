@@ -43,8 +43,8 @@ INTRODUCTION                                                *ddc-introduction*
 *ddc* stands for "dark deno-powered completion".  It provides an asynchronous
 keyword completion system in the current buffer.
 
-If you don't want to configure plugins, you don't have to use the plugin.
-It does not work with zero configuration.  You can use other plugins.
+This plugins provides no preset configurations. If you want to enable
+completions the on-the-fly, you should consider using other plugins.
 
 
 ==============================================================================
